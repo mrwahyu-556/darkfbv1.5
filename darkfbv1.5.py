@@ -58,7 +58,7 @@ logo = """\033[1;93m█████████
 \033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrother•|Mr Wahyu|➳TNཽ ཽ ྀ ྭ ྱ ྲ ཻƊ❍ηαLཽɗ︵✿ 033[1;93m          ║
 \033[1;93m║\033[1;96m* \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[:Mr Wahyu Gans Yt \033[0m \033[1;93m║
 \033[1;93m║\033[1;96m* \033[1;93m*WhatsApp \033[1;93m: 
-\033[1;93m083178913074[1;93m             
+\033[1;93m083178913074           
 \033[1;93m*Support:➳TNཽ ཽ ྀ ྭ ྱ ྲ ཻƊ❍ηαLཽɗ︵✿ 
 \033[1;93mKENA CP MAMPUS MAKANYA BUAT AKUN DI OPERA MINI
 ║
@@ -82,12 +82,12 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 083178913074\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mSELAMAT DATANG\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +USERNAME+:Gua +PASSWORD+:Nyari Pacar \x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mSELAMAT DATANG\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +USERNAME+:Gua +PASSWORD+:Gans \x1b[1;96m  
 \033[1;96m [¤] \x1b[1;93mYang Cewe Chat Gua:(\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : MrWahyu Gans\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "Gua"
-CorrectPassword = "Nyari Pacar"
+CorrectPassword = "Gans"
 
 loop = 'true'
 while (loop == 'true'):
